@@ -18,6 +18,9 @@ Utilizing the Twitter API to create and delete tweets.
 Unit Testing:
 Testing functions were added to ensure the functionality of functions and APIs worked as expected for a better user experience.
 
+
+Instruction: Run .js file
+
 DEVELOPERS:
 Dheeraj Nandigama
 Anandu Sreekumar
